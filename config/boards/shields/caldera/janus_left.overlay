@@ -1,4 +1,4 @@
-#include "Janus.dtsi"
+#include "janus.dtsi"
 
 &kscan0 {
     col-gpios
